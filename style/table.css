@@ -1,0 +1,21 @@
+table, td, th {
+    border: 1px solid;
+  }
+  
+  table {
+    /* padding-top: 2rem; */
+    width: 100%;
+    border-collapse: collapse;
+  }
+  main{
+    max-width: 1200px;
+    margin:0 auto ;
+    text-align: left;
+    padding-top: 2.5rem;
+  }
+  th , td{
+    padding:10px 0;
+  }
+  h2{
+    padding: 2rem;
+  }
